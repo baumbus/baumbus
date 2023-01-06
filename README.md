@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManOfGaming127
+- 👋 Hi, I’m @baumbus
 - 👀 I’m interested in video games like Terraria or Factorio
 - 🌱 I’m currently learning C++
 
